@@ -1,0 +1,5 @@
+s1=input('data: ')
+l1=s1.split()
+print('before:',l1)
+index=int(input('index: '))
+print('element',l1[index])
